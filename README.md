@@ -4,7 +4,6 @@ The intention of this Fork is to fix various issues i personally faced with the 
 
 - A (in my opinion) really weird way of handling window-dragging
   - Min puts an additional drag-bar above the body, but only when the window is not maximized. While this is done to because of Windows limitations, it is really annoying.
-- Apparently there's no Dark mode for the browser-base itself, leading to a huge flashbang whenever the browser is opened.
 
 As of right now, this fork does nothing different than the original, but i intend to fix those things (or at least make them less bad).
 But due to me having next to zero experience in JS, this might either take a long time, or just fall into the void entirely (Not that unlikely lol).
